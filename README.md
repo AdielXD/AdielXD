@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdielXD
 - 👀 I’m interested in ... Learn alot
-- 🌱 I’m currently learning ... still nothing
+- 🌱 I’m currently learning ... python, java
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... any social media, search AdielXD
 

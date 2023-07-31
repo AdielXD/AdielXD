@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AdielXD
-- 👀 I’m interested in ... Learn alot
-- 🌱 I’m currently learning ... python, java
-- 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... any social media, search AdielXD
+- 👋 Olá, sou o @AdielXD
+- 👀 Estou interessado em ... Aprender
+- 🌱 Atualmente estou aprendendo ... python, java
+- 📫 Como me achar ... pesquise 'AdielXD' em qualquer rede social
 
 <!---
 AdielXD/AdielXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
